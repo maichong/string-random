@@ -1,0 +1,26 @@
+{
+  "name": "string-random",
+  "version": "0.1.0",
+  "description": "Generate random string",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/string-random.git"
+  },
+  "author": {
+    "name": "Liang",
+    "email": "liang@maichong.it",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/string-random/issues"
+  },
+  "homepage": "https://github.com/maichong/string-random#readme"
+}
