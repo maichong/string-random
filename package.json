@@ -1,8 +1,9 @@
 {
   "name": "string-random",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate random string",
   "main": "index.js",
+  "types": "index.d.ts",
   "directories": {
     "test": "test"
   },
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/maichong/string-random/issues"
   },
-  "homepage": "https://github.com/maichong/string-random#readme"
+  "homepage": "https://github.com/maichong/string-random#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
